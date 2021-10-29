@@ -15,6 +15,6 @@ I'm part of _Nemesis Studio_, a non-profit project created by 3 friends where we
 - Linux: I'm used to work in Linux-based distributions, currently I'm using Ubuntu as my default OS.
 - Office: Advanced skills in both the Open Document Foundation and Microsoft ofimatic suite.
 
-###Awards and mentions
+### Awards and mentions
 - *Programa UAM Talento Joven*. I was awarded by being one of the 9 best access calification of the Faculty of Science at UAM. My university access calification was 13.825 out of 14
 
