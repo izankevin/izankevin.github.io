@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-
+## Welcome to my personal page
+Hello world! I'm Izan Kevin Fernández Tostado. I'm currently studying a Physics BSC at _Universidad Autónoma de Madrid_(UAM).
 You can use the [editor on GitHub](https://github.com/IzanK020/izankevin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
