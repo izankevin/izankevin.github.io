@@ -16,5 +16,5 @@ I'm part of _Nemesis Studio_, a non-profit project created by 3 friends where we
 - Office: Advanced skills in both the Open Document Foundation and Microsoft ofimatic suite.
 
 ### Awards and mentions
-- *Programa UAM Talento Joven*. I was awarded by being one of the 9 best access calification of the Faculty of Science at UAM. My university access calification was 13.825 out of 14
+- *Programa UAM Talento Joven*. I was awarded by being one of the 9 best access calification of the Faculty of Science at UAM. My university access calification was 13.825 out of 14 [more info](https://uam.es/Ciencias/Talento_Joven/1446765719655.htm?language=es&pid=1446744491898&title=Programa%20UAM%20Talento%20Joven).
 
