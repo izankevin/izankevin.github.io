@@ -9,7 +9,7 @@ I'm part of _Nemesis Studio_, a non-profit project created by 3 friends where we
 
 - MATLAB/GNU Octave: I learned how to code in Matlab at the course _Computación I_ obtaining a calification of 9.3, acquiring experience in numerical analysis, data analysis and numerical simulations. I've been using this programming language for data analysis in every laboraty I've worked in as part of the Physics BSC, _Técnicas experimentales I, II (with honors), III (with honors)_.
 - C++: I learned how to code in C++ at the course _Computación II_ obtaining a calification of 9.3, learning more numerical analysis techniques and data analysis.
-- ROOT-Framework: 
+- ROOT-Framework: I'm using ROOT-Framework as a part of my degree final project were I'm analysing LHC data studying the detection of bosons W and Z.
 - LaTeX: I learned how to make scientific documents such as articles and slides at my own. Currently I have advance skills in LaTeX documents, usings several libraries such as Bibtex or Pgfplots(for making vectorial graphs inside a LaTeX document).
 - Python: I learned how to use Python for fun. 
 - Linux: I'm used to work in Linux-based distributions, currently I'm using Ubuntu as my default OS.
