@@ -1,5 +1,5 @@
 ---
-layout: Izan Kevin
+layout: default
 ---
 ## Welcome to my personal page
 Hello world! I'm Izan Kevin Fernández Tostado. I'm currently studying a Physics BSC at _Universidad Autónoma de Madrid_ (UAM) [more info](https://secretaria-virtual.uam.es/doa/consultaPublica/look%5bconpub%5dBuscarPubGuiaDocAs?entradaPublica=true&idiomaPais=es.ES&_anoAcademico=2021&_centro=104&_planEstudio=448).
