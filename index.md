@@ -2,13 +2,13 @@
 Hello world! I'm Izan Kevin Fernández Tostado. I'm currently studying a Physics BSC at _Universidad Autónoma de Madrid_ (UAM) [more info](https://secretaria-virtual.uam.es/doa/consultaPublica/look%5bconpub%5dBuscarPubGuiaDocAs?entradaPublica=true&idiomaPais=es.ES&_anoAcademico=2021&_centro=104&_planEstudio=448).
 ### Programming Skills
 
-- MATLAB/GNU Octave: I learned how to code in Matlab at the course _Computación I_ obtaining a calification of 9.3, obtaining experience in numerical analysis, data analysis and numerical simulations. I've been using this programming language for data analysis in every laboraty I've worked in as part of the Physics BSC, _Técnicas experimentales I, II (with honors), III (with honors)_.
--C++: I learned how to code in C++ at the course _Computación II_ obtaining a calification of 9.3, learning more numerical analysis techniques and data analysis.
--ROOT-Framework: 
--LaTeX: I learned how to make scientific documents such as articles and slides at my own. Currently I have advance skills in LaTeX documents, usings several libraries such as Bibtex or Pgfplots(for making vectorial graphs inside a LaTeX document).
--Python: I learned how to use Python for fun. 
--Linux: I'm used to work in Linux-based distributions, currently I'm using Ubuntu as my default OS.
--Office: Advanced skills in both the Open Document Foundation and Microsoft ofimatic suite.
+- MATLAB/GNU Octave: I learned how to code in Matlab at the course _Computación I_ obtaining a calification of 9.3, acquiring experience in numerical analysis, data analysis and numerical simulations. I've been using this programming language for data analysis in every laboraty I've worked in as part of the Physics BSC, _Técnicas experimentales I, II (with honors), III (with honors)_.
+- C++: I learned how to code in C++ at the course _Computación II_ obtaining a calification of 9.3, learning more numerical analysis techniques and data analysis.
+- ROOT-Framework: 
+- LaTeX: I learned how to make scientific documents such as articles and slides at my own. Currently I have advance skills in LaTeX documents, usings several libraries such as Bibtex or Pgfplots(for making vectorial graphs inside a LaTeX document).
+- Python: I learned how to use Python for fun. 
+- Linux: I'm used to work in Linux-based distributions, currently I'm using Ubuntu as my default OS.
+- Office: Advanced skills in both the Open Document Foundation and Microsoft ofimatic suite.
 
 You can use the [editor on GitHub](https://github.com/IzanK020/izankevin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
