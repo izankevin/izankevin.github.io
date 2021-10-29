@@ -4,7 +4,7 @@ Hello world! I'm Izan Kevin Fernández Tostado. I'm currently studying a Physics
 
 I'm interested in Theorical Physics and I also love programming. 
 
-I'm part of _Nemesis Studio_, a non-profit project created by 3 friends where we build a game called _Georush_ (not avaible yet to the public) after we were awarded in a game creation competition carried out by the _Universidad de Almería_ (UAL) [more info](https://w3.ual.es/eventos/jornadasinformatica/ualGames/index.shtml). This project gave us a lot of important values and experience in game development, thanks to this we also were invited as speakers in the conference _Jornadas de Autoempleo_ (2015) at the same university, UAL.
+I'm part of _Nemesis Studio_, a non-profit project created by 3 friends where we build a game called _Georush_ (not avaible yet to the public) after we were awarded in a game creation competition carried out by the _Universidad de Almería_ (UAL) [more info](https://w3.ual.es/eventos/jornadasinformatica/ualGames/index.shtml). This project gave us a lot of important values and experience in game development, thanks to this we also were invited as speakers in the conference _Jornadas de Autoempleo: “La industria del videojuego como oportunidad de negocio”_ (2015) at the same university, UAL.
 ### Programming Skills
 
 - MATLAB/GNU Octave: I learned how to code in Matlab at the course _Computación I_ obtaining a calification of 9.3, acquiring experience in numerical analysis, data analysis and numerical simulations. I've been using this programming language for data analysis in every laboraty I've worked in as part of the Physics BSC, _Técnicas experimentales I, II (with honors), III (with honors)_.
@@ -15,4 +15,6 @@ I'm part of _Nemesis Studio_, a non-profit project created by 3 friends where we
 - Linux: I'm used to work in Linux-based distributions, currently I'm using Ubuntu as my default OS.
 - Office: Advanced skills in both the Open Document Foundation and Microsoft ofimatic suite.
 
+###Awards and mentions
+- *Programa UAM Talento Joven*. I was awarded by being one of the 9 best access calification of the Faculty of Science at UAM. My university access calification was 13.825 out of 14
 
