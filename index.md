@@ -8,7 +8,7 @@ Hello world! Soy Izan Kevin Fernández Tostado. Actualmente estudio el Grado en 
   - Realización del Trabajo Fin de Grado en el departamento de Física Teórica con temas orientados a la Física de Partículas.
   - Media global en el expediente de 7.97.
 
-2016-2018:  Bachillerato en Ciencias, Colegio Saladares, Almería}
+2016-2018:  Bachillerato en Ciencias, Colegio Saladares, Almería
   - Obtención del Bachillerato en Ciencias con una media global de 10, obteniendo una calificación en las pruebas de acceso a la universidad de 13.825.
 
 ### Awards and mentions
