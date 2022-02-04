@@ -12,28 +12,28 @@ Hello world! Soy Izan Kevin Fernández Tostado. Actualmente estudio el Grado en 
   - Obtención del Bachillerato en Ciencias con una media global de 10, obteniendo una calificación en las pruebas de acceso a la universidad de 13.825.
 
 ### Awards and mentions
-- *Programa UAM Talento Joven*.Premio entregado a las 9 mejores calificaciones en las pruebas de acceso a la universidad de la Facultad de Ciencias de la UAM (50 mejores de la universidad). Obtenido al haber ingresado al grado en física en la UAM (Madrid) con una nota de admisión de 13.825. [más información](https://uam.es/Ciencias/Talento_Joven/1446765719655.htm?language=es&pid=1446744491898&title=Programa%20UAM%20Talento%20Joven).
+  - *Programa UAM Talento Joven*.Premio entregado a las 9 mejores calificaciones en las pruebas de acceso a la universidad de la Facultad de Ciencias de la UAM (50 mejores de la universidad). Obtenido al haber ingresado al grado en física en la UAM (Madrid) con una nota de admisión de 13.825. [más información](https://uam.es/Ciencias/Talento_Joven/1446765719655.htm?language=es&pid=1446744491898&title=Programa%20UAM%20Talento%20Joven).
 
 ### Idiomas
--Español: Nativo
--Inglés: Acreditación de nivel C1 por Cambridge English
--Francés: Acreditación de nivel B1 por  DELF
+ - Español: Nativo
+ - Inglés: Acreditación de nivel C1 por Cambridge English
+ - Francés: Acreditación de nivel B1 por  DELF
 
 
 ### Habilidades informáticas
--MATLAB/ GNU Octave: Conocimiento avanzado con experiencia en análisis numérico, análisis de datos y simulaciones numéricas en la asignatura Computación I (calificación de 9.3)  del Grado de Ciencias Físicas.
+ - MATLAB/ GNU Octave: Conocimiento avanzado con experiencia en análisis numérico, análisis de datos y simulaciones numéricas en la asignatura Computación I (calificación de 9.3)  del Grado de Ciencias Físicas.
 
--C++: Conocimiento avanzado con experiencia en análisis numérico y análisis de datos en la asignatura Computación II (calificación de 9.3) del Grado de Ciencias Físicas.
+ - C++: Conocimiento avanzado con experiencia en análisis numérico y análisis de datos en la asignatura Computación II (calificación de 9.3) del Grado de Ciencias Físicas.
 
--ROOT: Conocimiento avanzado de Root-framework como herramienta de análisis de datos en el LHC. Conocimiento adquirido como parte del Trabajo Fin de Grado en la UAM en el que analicé datos del detector Atlas.
+ - ROOT: Conocimiento avanzado de Root-framework como herramienta de análisis de datos en el LHC. Conocimiento adquirido como parte del Trabajo Fin de Grado en la UAM en el que analicé datos del detector Atlas.
 
--LaTeX: Conocimiento avanzado de este lenguaje de programación para el desarrollo de artículos y presentaciones utilizando las herramientas propias del mismo para la realización de gráficos (paquete TikZ).
+ - LaTeX: Conocimiento avanzado de este lenguaje de programación para el desarrollo de artículos y presentaciones utilizando las herramientas propias del mismo para la realización de gráficos (paquete TikZ).
 
--Python: Conocimientos básicos.
+ - Python: Conocimientos básicos.
 
--Linux: Familiarizado con el uso de este sistema operativo.
+ - Linux: Familiarizado con el uso de este sistema operativo.
 
--Office: Gran control en el paquete de ofimática de Microsoft Office.
+ - Office: Gran control en el paquete de ofimática de Microsoft Office.
 
 ### Formación Orientada a la Física Teórica
 
