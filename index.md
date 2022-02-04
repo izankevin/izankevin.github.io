@@ -11,7 +11,7 @@ Hello world! Soy Izan Kevin Fernández Tostado. Actualmente estudio el Grado en 
 2016-2018:  Bachillerato en Ciencias, Colegio Saladares, Almería
   - Obtención del Bachillerato en Ciencias con una media global de 10, obteniendo una calificación en las pruebas de acceso a la universidad de 13.825.
 
-### Awards and mentions
+### Premios y Menciones
   - *Programa UAM Talento Joven*.Premio entregado a las 9 mejores calificaciones en las pruebas de acceso a la universidad de la Facultad de Ciencias de la UAM (50 mejores de la universidad). Obtenido al haber ingresado al grado en física en la UAM (Madrid) con una nota de admisión de 13.825. [más información](https://uam.es/Ciencias/Talento_Joven/1446765719655.htm?language=es&pid=1446744491898&title=Programa%20UAM%20Talento%20Joven).
 
 ### Idiomas
