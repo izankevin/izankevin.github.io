@@ -21,8 +21,8 @@ Hello world! Soy Izan Kevin Fernández Tostado. Actualmente estudio el Grado en 
 
 
 ### Habilidades informáticas
--MATLAB/ GNU Octave: Conocimiento avanzado con experiencia en análisis numérico, análisis de datos y simulaciones numéricas en la asignatura ``Computación I'' (calificación de 9.3)  del Grado de Ciencias Físicas
--C++: Conocimiento avanzado con experiencia en análisis numérico y análisis de datos en la asignatura ``Computación II'' (calificación de 9.3) del Grado de Ciencias Físicas
+-MATLAB/ GNU Octave: Conocimiento avanzado con experiencia en análisis numérico, análisis de datos y simulaciones numéricas en la asignatura Computación I (calificación de 9.3)  del Grado de Ciencias Físicas
+-C++: Conocimiento avanzado con experiencia en análisis numérico y análisis de datos en la asignatura Computación II (calificación de 9.3) del Grado de Ciencias Físicas
 -ROOT: Conocimiento avanzado de Root-framework como herramienta de análisis de datos en el LHC. Conocimiento adquirido como parte del Trabajo Fin de Grado en la UAM en el que analicé datos del detector Atlas.
 -LaTeX: Conocimiento avanzado de este lenguaje de programación para el desarrollo de artículos y presentaciones utilizando las herramientas propias del mismo para la realización de gráficos (paquete TikZ)
 -Python: Conocimientos básicos
